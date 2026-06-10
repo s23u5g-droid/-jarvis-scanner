@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Scanner",
+  "description": "A local-first AI-powered algorithmic trading scanner featuring TradingView charts, pivot level engine, CRT/CISD logic, liquidity levels, and Gemini setups explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
